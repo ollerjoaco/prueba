@@ -1,0 +1,10 @@
+Agregar:
+
+-icono en la barra de pestañas
+-fotos de mapas en imagenes
+-redes sociales ( iconos con links )
+
+
+Arreglar:
+
+-sacar la barra de moverse horizontalmente ( no hay nada mas a la derecha )
